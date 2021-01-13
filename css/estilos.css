@@ -1,0 +1,63 @@
+.navbar {
+    background-color: #3f3d56;
+}
+
+body {
+    background-color: #bde7e2;
+}
+
+.Loqueamo {
+    background: linear-gradient(180deg,#cce9e5 6%,  #bde7e2 90%);
+}
+
+.herramientas {
+    background-color: #a2ddd4;
+}
+
+.proyectos {
+    background: linear-gradient(180deg,#cce9e5 6%,  #bde7e2 90%);
+}
+
+.certificaciones {
+    background-color: #a2ddd4;
+}
+
+.voluntariado {
+    background-color: #a2ddd4;
+}
+
+.dropdown-item:hover {
+    color: #3f3d56;
+    background-color: #a2ddd4;
+}
+
+.dropdown-toggle {
+    color:white;
+}
+
+.pie-de-pagina {
+    background-color: #3f3d56;
+    color: white;
+}
+
+.boton {
+    background-color: #72bdb2;
+    color: white;
+}
+
+.boton:hover {
+    background-color:  #3f3d56;
+    color: white;
+}
+
+.btn-outline-success {
+    color: #3f3d56;
+    border-color: #3f3d56;
+}
+
+.btn-outline-success:hover {
+    background-color: #3f3d56;
+    border-color: #3f3d56;
+    color: white;
+}
+
